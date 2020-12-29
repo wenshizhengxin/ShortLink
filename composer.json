@@ -1,0 +1,19 @@
+{
+  "name": "wenshizhengxin/ShortLink",
+  "description": "短链接生成与解析",
+  "authors": [
+    {
+      "name": "huyunlong",
+      "email": ""
+    }
+  ],
+  "license": "Apache License",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "wenshizhengxin\\ShortLink\\": "src/"
+    }
+  }
+}
